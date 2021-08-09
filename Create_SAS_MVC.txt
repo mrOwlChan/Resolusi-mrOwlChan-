@@ -1,0 +1,7 @@
+Rencana Membuat SAS:
+1. Perancangan modul SAS berdasarkan sumber berupa file SAS
+2. Create Controller untuk SAS
+3. Create Model untuk SAS
+4. Create View untuk SAS
+5. Create table terkait SAS 
+6. Edit dan sesuaikan Model dengan table terkait SAS
