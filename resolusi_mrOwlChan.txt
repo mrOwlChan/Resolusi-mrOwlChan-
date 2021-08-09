@@ -2,5 +2,7 @@ Resolusi mrOwlChan
 1. Membuat perancangan aplikasi web monarkiBPOM secara garis besar
 2. Membuat perancangan database aplikasi web monarkiBPOM 
 3. Install Framework laravel 7
-4. Install Template AdminLTE untuk Frontend Aplikasi Web monarkiBPOM
-5. Install asset yang dibutuhkan, seperti JQuery, AngularJS, dan Library lainnya.
+4. Inisialisasi Git untuk pada project aplikasi web monarkiBPOM
+5. Install Template AdminLTE untuk Frontend Aplikasi Web monarkiBPOM
+6. Install asset yang dibutuhkan, seperti JQuery, AngularJS, dan Library lainnya
+
